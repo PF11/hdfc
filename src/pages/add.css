@@ -1,0 +1,31 @@
+.right-add{
+    background-color: lightcyan;
+    height: 450px;
+    margin-top: 7%;
+    border-radius: 5%;
+}
+.first-part{
+    border-bottom: 1px solid gray;
+}
+.btn-on{
+    margin: 5%;
+    margin-left: 15%;
+    color: blue;
+    border-radius: 2%;
+    background-color: white;
+}
+.imp{
+    width:20%;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+.second-part{
+    border-bottom: 1px solid gray;
+}
+.know{
+    color:green;
+}
+.verifiedI{
+    width:20%;
+    float: right;
+}

@@ -1,0 +1,56 @@
+.name-space {
+  background-color: dodgerblue;
+  color: darkblue;
+  height: 170px;
+  margin-top: 5%;
+  padding: 6%;
+  border: 1px solid dodgerblue;
+  border-radius: 5%;
+}
+.pass-space {
+  background-color: dodgerblue;
+  color: darkblue;
+  height: 170px;
+  margin-top: 3%;
+  padding: 6%;
+  border-radius: 5%;
+}
+.line{
+    color: white;
+    padding: 3%;
+}
+.icon-t{
+    color: white;
+}
+.icon-q{
+    padding-left: 2%;
+}
+.first-text{
+    border-radius: 7px;
+    width: 50%;
+    height:50%;
+}
+.btn-side{
+    background-color:white;
+    width:270px;
+    margin-top:3%;
+    height: 100px;
+    margin-bottom: 3%;
+    border-radius: 5px;
+}
+.btn{
+    background-color: rgb(46, 228, 46);
+    color: white;
+    margin: 8%;
+    box-sizing: border-box;
+    position: relative;
+}
+.impp{
+    width:5%;
+    height: 25%;
+    margin-left: 3%;
+  
+}
+.click{
+    color:blue;
+}
